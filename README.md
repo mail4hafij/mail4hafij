@@ -1,4 +1,4 @@
 {
     "name": "Mohammad Hafijur Rahman",
-    "likes": ["coding", "doing nothing"]
+    "likes": ["doing nothing"]
 }
