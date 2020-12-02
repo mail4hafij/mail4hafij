@@ -1,5 +1,5 @@
 {  
-→"name": "Mohammad Hafijur Rahman",  
-&nbsp;&nbsp;&nbsp;&nbsp;"likes": ["pressing F5", "learning new technology"],  
-&nbsp;&nbsp;&nbsp;&nbsp;"loves": ["family"]  
+  "name": "Mohammad Hafijur Rahman",  
+  "likes": ["learning new technology"],  
+  "loves": ["family"]
 }
