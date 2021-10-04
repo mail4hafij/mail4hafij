@@ -8,7 +8,7 @@ I have a master’s degree in computer & System Science 🎓 from Uppsala Univer
 
 Pragmatic and I believe that IT is a fantastic tool and there shouldn't be any religion when choosing which technology to use.
 
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+<img align="right" height="250" width="375" alt="" src="programmer.png" />
 
 ### Current status:
 - 🛠 &nbsp; Daily work involves => Azure devops, Docker, Kubernetes, C#, React, GraphQL, Nodejs, Express, Mongodb, etc.
