@@ -16,7 +16,7 @@ Pragmatic and I believe that IT is a fantastic tool and the only thing constant 
 - 👾 &nbsp; Fun fact => Equal is Not Always Equal in Javascript.
 - 📫 &nbsp; Reach me => mail4hafij@yahoo.com.
 
-### Things I enjoy:
+### Things I love:
 
 - 💻 &nbsp; Exploring new tech stack.
 - 👪 &nbsp; My famiily.
