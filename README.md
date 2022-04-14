@@ -12,7 +12,7 @@ Pragmatic and I believe that IT is a fantastic tool to solve real world problems
 
 ### Daily work and learning:
 - 🛠 &nbsp; Daily work involves => Azure devops, Docker, Kubernetes, C#, React, GraphQL, Nodejs, Express, Mongodb, etc.
-- 🚀 &nbsp; Currently learning => IotHub, IotEdge, Python, etc.
+- 🚀 &nbsp; Currently learning => IoTHub, IoTEdge, Python, etc.
 - 👾 &nbsp; Fun fact => Equal is Not Always Equal in Javascript.
 - 📫 &nbsp; Reach me => mail4hafij@yahoo.com.
 
