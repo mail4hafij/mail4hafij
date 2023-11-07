@@ -11,7 +11,7 @@ Pragmatic and I believe that IT is a fantastic tool to solve real world problems
 <!-- <img align="right" width="375" alt="" src="programmer.png" /> -->
 
 ### Daily work and learning:
-- 🛠 &nbsp; Daily work involves => Azure devops, Docker, Kubernetes, C#, React, GraphQL, Nodejs, Express, Mongodb, etc.
+- 🛠 &nbsp; Daily work involves => Azure devops, Docker, Kubernetes, C#, Nodejs, Express, Mongodb, etc.
 - 🚀 &nbsp; Currently working => IoTHub, IoTEdge, DPS, .NET 6, Azure functions, etc.
 - 👾 &nbsp; Fun fact => Equal is Not Always Equal in Javascript.
 - 📫 &nbsp; Reach me => mail4hafij@yahoo.com.
